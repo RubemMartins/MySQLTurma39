@@ -1,0 +1,1 @@
+select * from tb_estudantes where turma = "Turma-38";

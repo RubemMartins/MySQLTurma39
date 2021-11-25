@@ -1,0 +1,1 @@
+update funcionarios set funcao = "Desenvolvedor Full Stack Pleno", salario = 5000 where id = 1;

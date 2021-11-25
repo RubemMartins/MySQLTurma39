@@ -1,0 +1,1 @@
+update tb_produtos set validade = '2021-12-12' where id_produto = 1;
